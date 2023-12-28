@@ -1,0 +1,70 @@
+<div style="width: 100%; height: 100%; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+<div style="width: 1920px; height: 450px; padding-left: 34px; padding-right: 34px; padding-top: 53px; padding-bottom: 53px; background: #000030; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+<div style="text-align: center; color: white; font-size: 80px; font-family: Inter; font-weight: 800; word-wrap: break-word">maew123</div>
+<div style="width: 426px; height: 51px; text-align: center; color: white; font-size: 32px; font-family: Inter; font-weight: 800; word-wrap: break-word">Call : 123-4567-890</div>
+<div style="width: 770px; text-align: center; color: white; font-size: 32px; font-family: Inter; font-weight: 800; word-wrap: break-word">11/1 หมู่ 1 ต. บ้านใกล้ อ. ใกล้ตึก จ. สมุทรปราการ 10270</div>
+<div style="width: 297px; height: 44px; text-align: center; color: #0099C9; font-size: 28px; font-family: Inter; font-weight: 800; word-wrap: break-word">เว็บขานสินค้า IT ออนไลน์</div>
+<div style="width: 373px; height: 51px; text-align: center; color: white; font-size: 32px; font-family: Inter; font-weight: 800; word-wrap: break-word">contact us or click here</div>
+<div style="width: 297px; height: 44px; text-align: center; color: white; font-size: 32px; font-family: Inter; font-weight: 800; word-wrap: break-word">Online Shopping</div>
+<div style="width: 326px; height: 44px; text-align: center; color: white; font-size: 32px; font-family: Inter; font-weight: 800; word-wrap: break-word">Help & Information</div>
+<div style="width: 185px; height: 44px; text-align: center; color: white; font-size: 32px; font-family: Inter; font-weight: 800; word-wrap: break-word">About Us</div>
+<div style="width: 204px; height: 44px; text-align: center; color: white; font-size: 32px; font-family: Inter; font-weight: 800; word-wrap: break-word">Follow Us</div>
+<div style="width: 204px; height: 44px; text-align: center; color: white; font-size: 32px; font-family: Inter; font-weight: 800; word-wrap: break-word">Verified By</div>
+</div>
+<div style="justify-content: flex-start; align-items: flex-start; gap: 34px; display: inline-flex">
+<div style="width: 82.84px; height: 82.84px; background: #00FF38"></div>
+<div style="width: 82.84px; height: 82.84px; position: relative">
+<div style="width: 82.84px; height: 82.84px; left: 0px; top: 0px; position: absolute; background: #1877F2"></div>
+<div style="width: 35.43px; height: 66.66px; left: 24.43px; top: 16.18px; position: absolute; background: white"></div>
+</div>
+<div style="width: 82.84px; height: 82.84px; position: relative">
+<div style="width: 82.84px; height: 82.84px; left: 0px; top: 0px; position: absolute; background: black"></div>
+<div style="width: 82.84px; height: 82.84px; left: 0px; top: 0px; position: absolute; background: radial-gradient(50.00% 50.00% at 30.00% 100.00%, #FFDD55 10%, #FF543E 50%, #C837AB 100%)"></div>
+<div style="width: 82.84px; height: 82.84px; left: 0px; top: 0px; position: absolute; background: linear-gradient(169deg, #3771C8 10%, rgba(102, 0, 255, 0) 50%)"></div>
+<div style="width: 49.83px; height: 49.83px; left: 16.50px; top: 16.50px; position: absolute">
+<div style="width: 49.83px; height: 49.83px; left: 0px; top: 0px; position: absolute; border: 4.85px white solid"></div>
+<div style="width: 23.30px; height: 23.30px; left: 13.27px; top: 13.27px; position: absolute; border: 4.85px white solid"></div>
+<div style="width: 1.94px; height: 1.94px; left: 38.67px; top: 9.22px; position: absolute; border: 4.85px white solid"></div>
+</div>
+</div>
+<div style="width: 82.84px; height: 82.84px; background: #00C2FF"></div>
+<div style="width: 80.32px; height: 80.32px; position: relative">
+<div style="width: 80.32px; height: 80.32px; left: 0px; top: 0px; position: absolute; background: radial-gradient(45.45% 45.46% at 35.32% 79.55%, #0099FF 0%, #A033FF 60%, #FF5280 90%, #FF7061 100%)"></div>
+<div style="width: 48.86px; height: 26.25px; left: 15.73px; top: 27.03px; position: absolute; background: white"></div>
+</div>
+</div>
+<div style="justify-content: flex-start; align-items: center; gap: 25px; display: inline-flex">
+<div style="width: 100.71px; height: 78.03px; position: relative">
+<div style="width: 90.64px; height: 11.76px; left: 5.23px; top: 66.28px; position: absolute; background: white"></div>
+<div style="width: 29.98px; height: 48.91px; left: 35.47px; top: 6.65px; position: absolute; background: #FF5F00"></div>
+<div style="width: 100.71px; height: 62.21px; left: 0px; top: 0px; position: absolute">
+<div style="width: 50.33px; height: 62.21px; left: 0px; top: 0px; position: absolute; background: #EB001B"></div>
+<div style="width: 50.28px; height: 62.20px; left: 50.43px; top: 0.01px; position: absolute; background: #F79E1B"></div>
+</div>
+</div>
+<div style="width: 100.71px; height: 26.85px; position: relative">
+<div style="width: 18.94px; height: 21.78px; left: 0px; top: 0px; position: absolute; background: #003087"></div>
+<div style="width: 8.16px; height: 21.78px; left: 92.55px; top: 0px; position: absolute; background: #009CDE"></div>
+<div style="width: 18.09px; height: 19.62px; left: 38.02px; top: 7.23px; position: absolute; background: #003087"></div>
+<div style="width: 18.40px; height: 15.24px; left: 73.62px; top: 6.88px; position: absolute; background: #009CDE"></div>
+<div style="width: 18.40px; height: 15.24px; left: 17.76px; top: 6.88px; position: absolute; background: #003087"></div>
+<div style="width: 18.94px; height: 21.78px; left: 55.86px; top: 0px; position: absolute; background: #009CDE"></div>
+</div>
+<div style="width: 100.71px; height: 30.85px; position: relative">
+<div style="width: 92.16px; height: 30.85px; left: 8.55px; top: 0px; position: absolute; background: #0E4595"></div>
+<div style="width: 19.79px; height: 16.26px; left: 0px; top: 0.61px; position: absolute; background: #F2AE14"></div>
+</div>
+<div style="width: 100.71px; height: 63.59px; position: relative">
+<div style="width: 49.90px; height: 63.59px; left: 0px; top: 0px; position: absolute; background: #D10429"></div>
+<div style="width: 50.79px; height: 63.59px; left: 22.94px; top: 0px; position: absolute; background: #022E64"></div>
+<div style="width: 49.90px; height: 63.59px; left: 50.81px; top: 0px; position: absolute; background: #076F74"></div>
+<div style="width: 81.75px; height: 34.38px; left: 11.29px; top: 16.23px; position: absolute">
+<div style="width: 14.19px; height: 15.10px; left: 50.81px; top: 19.23px; position: absolute; background: #FEFEFE"></div>
+<div style="width: 42.90px; height: 15.15px; left: 30.17px; top: 19.23px; position: absolute; background: #FEFEFE"></div>
+<div style="width: 71.11px; height: 34.23px; left: -0px; top: 0px; position: absolute; background: #FEFEFE"></div>
+<div style="width: 56.70px; height: 19.34px; left: 25.05px; top: 0px; position: absolute; background: #FEFEFE"></div>
+<div style="width: 5.44px; height: 3.41px; left: 68.99px; top: 19.23px; position: absolute; background: #FEFEFE"></div>
+</div>
+</div>
+</div>
+</div>
